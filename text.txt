@@ -1,0 +1,12 @@
+test one
+file -a
+file -b
+test one
+file -a
+test one
+file -a
+file -b
+test one
+file -a
+test one
+file -a

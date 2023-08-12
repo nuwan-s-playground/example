@@ -1,0 +1,3 @@
+final result
+file -a
+file -b
